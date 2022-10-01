@@ -1,0 +1,15 @@
+G:\Учеба\Програм\C#\DZ\Less9\dz64\bin\Debug\net6.0\dz64.exe
+G:\Учеба\Програм\C#\DZ\Less9\dz64\bin\Debug\net6.0\dz64.deps.json
+G:\Учеба\Програм\C#\DZ\Less9\dz64\bin\Debug\net6.0\dz64.runtimeconfig.json
+G:\Учеба\Програм\C#\DZ\Less9\dz64\bin\Debug\net6.0\dz64.dll
+G:\Учеба\Програм\C#\DZ\Less9\dz64\bin\Debug\net6.0\dz64.pdb
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\dz64.csproj.AssemblyReference.cache
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\dz64.GeneratedMSBuildEditorConfig.editorconfig
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\dz64.AssemblyInfoInputs.cache
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\dz64.AssemblyInfo.cs
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\dz64.csproj.CoreCompileInputs.cache
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\dz64.dll
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\refint\dz64.dll
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\dz64.pdb
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\dz64.genruntimeconfig.cache
+G:\Учеба\Програм\C#\DZ\Less9\dz64\obj\Debug\net6.0\ref\dz64.dll
